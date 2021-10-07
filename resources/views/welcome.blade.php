@@ -35,7 +35,7 @@
             }
             #container{
                 
-                background-color: #fffcf2
+                background-color: #fffff5
             }
             .navContainer{
                
@@ -63,6 +63,7 @@
                  color: #e63946;
                  font-size: 45px;
                  text-align: center;
+                   margin-top: 0px;
             }
             .pageLinks{ 
                width: 40%;
@@ -114,11 +115,13 @@
 
             .dropbtn {
                  font-family: 'Roboto', sans-serif;
-            background-color: #457b9d;
+            background-color: transparent;
             color: #e63946;
-            padding: 16px;
-            font-size: 14px;
+            padding: 14px;
+            font-size: 16px;
             border: none;
+           vertical-align: text-bottom;
+           margin-top: 10px;
        
             }
             .dropdown {
