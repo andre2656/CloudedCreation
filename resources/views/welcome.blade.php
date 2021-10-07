@@ -88,7 +88,7 @@
             .username{
                 float: right;
                 width: 25%;
-                border: 1px solid #D1E2C4;
+                border: 1px solid #e63946;
                 margin-bottom: 10px;
                 padding:2px;
                 border-radius: 25px;
@@ -97,7 +97,7 @@
             .password{
                  float: right;
                 width: 25%;
-                border: 1px solid #D1E2C4;
+                border: 1px solid #e63946;
                 margin-bottom: 10px;
                 padding:2px;
                 border-radius: 25px;
@@ -115,7 +115,7 @@
             .dropbtn {
                  font-family: 'Roboto', sans-serif;
             background-color: #457b9d;
-            color: #D1E2C4;
+            color: #e63946;
             padding: 16px;
             font-size: 14px;
             border: none;
@@ -192,7 +192,7 @@
                             </div>
                         </div>
                         <div class="dropdown">
-                            <button class="dropbtn">My Opinion</button>
+                            <button class="dropbtn">Clouded Classics</button>
                             <div class="dropdown-content">
                                 <a href="#">Music</a>
                                 <a href="#">Movies</a>
@@ -204,7 +204,7 @@
                         </div>
                       
                         <div class="dropdown">
-                            <button class="dropbtn">The Athletic</button>
+                            <button class="dropbtn">Highlights</button>
                             <div class="dropdown-content">
                                 <a href="#">Live Scores</a>
                                 <a href="#">Mr. Bets</a>
